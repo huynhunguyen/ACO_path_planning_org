@@ -588,8 +588,8 @@ Output: [A, B, C, F]
          ▼
 ┌─────────────────────────────────────────┐
 │  Console Output                         │
-│  Iteration: 0  lenght of the path: 15   │
-│  Iteration: 1  lenght of the path: 12   │
+│  Iteration: 0  length of the path: 15   │
+│  Iteration: 1  length of the path: 12   │
 │  ...                                    │
 │  [(0,0), (1,1), (2,2), (2,3)]          │
 └────────┬────────────────────────────────┘

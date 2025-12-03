@@ -107,7 +107,7 @@ Chương trình in ra:
 
 **a) Thông tin tiến trình:**
 ```
-Iteration: <số vòng lặp> lenght of the path: <độ dài đường đi>
+Iteration: <số vòng lặp> length of the path: <độ dài đường đi>
 ```
 - In ra sau mỗi vòng lặp
 - Hiển thị độ dài đường đi tốt nhất hiện tại
@@ -554,12 +554,12 @@ python aco_resolve_path.py 30 100 map2.txt 0.5 50 -d
 
 ### 10.3. Output mẫu
 ```
-Iteration: 0  lenght of the path: 15
-Iteration: 1  lenght of the path: 13
-Iteration: 2  lenght of the path: 12
-Iteration: 3  lenght of the path: 11
+Iteration: 0  length of the path: 15
+Iteration: 1  length of the path: 13
+Iteration: 2  length of the path: 12
+Iteration: 3  length of the path: 11
 ...
-Iteration: 49  lenght of the path: 9
+Iteration: 49  length of the path: 9
 [(0, 1), (1, 1), (1, 2), (2, 2), (3, 2), (3, 3), (3, 4), (4, 4), (4, 3)]
 ```
 

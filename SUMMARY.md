@@ -54,8 +54,8 @@ O O E E F
 
 ### 1. Console Output
 ```
-Iteration: 0  lenght of the path: 15
-Iteration: 1  lenght of the path: 13
+Iteration: 0  length of the path: 15
+Iteration: 1  length of the path: 13
 ...
 [(0,1), (1,1), (1,2), ..., (4,4)]
 ```
@@ -177,11 +177,11 @@ python aco_resolve_path.py 30 100 map2.txt 0.5 50 -d
 
 ### Kết quả mẫu / Sample Output:
 ```
-Iteration: 0  lenght of the path: 15
-Iteration: 1  lenght of the path: 13
-Iteration: 2  lenght of the path: 12
+Iteration: 0  length of the path: 15
+Iteration: 1  length of the path: 13
+Iteration: 2  length of the path: 12
 ...
-Iteration: 49  lenght of the path: 9
+Iteration: 49  length of the path: 9
 [(0, 1), (1, 1), (1, 2), (2, 2), (3, 2), (3, 3), (3, 4), (4, 4), (4, 3)]
 ```
 
