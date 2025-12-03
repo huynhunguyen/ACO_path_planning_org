@@ -588,8 +588,9 @@ Iteration: 49  length of the path: 9
 ### 12.1. Phiên bản Python
 - Code được viết cho **Python 2.x**
 - Cần sửa đổi để chạy trên Python 3.x:
-  - `print path` → `print(path)`
-  - `from map_class import Map` → `from .map_class import Map`
+  - `print path` → `print(path)` (line 38, 186 trong ant_colony.py)
+  - Cần cập nhật syntax cho print statements
+  - Có thể cần thay đổi cách import trong __init__.py nếu gặp vấn đề về relative imports
 
 ### 12.2. Dependencies
 - numpy: Xử lý mảng và tính toán

@@ -285,10 +285,10 @@ maps/                        # Map files / File bản đồ
 ## 📝 Ghi chú kỹ thuật / Technical Notes
 
 ### Python Version
-- Code viết cho Python 2.x
-- Code written for Python 2.x
-- Cần sửa đổi cho Python 3.x
-- Needs modifications for Python 3.x
+- Code viết cho Python 2.x (chú ý print statement syntax)
+- Code written for Python 2.x (note print statement syntax)
+- Cần sửa đổi cho Python 3.x: print path → print(path)
+- Needs modifications for Python 3.x: print path → print(path)
 
 ### Dependencies
 ```bash

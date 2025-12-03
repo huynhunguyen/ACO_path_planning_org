@@ -540,8 +540,9 @@ Iteration: 49  length of the path: 9
 ### 12.1. Python Version
 - Code written for **Python 2.x**
 - Modifications needed for Python 3.x:
-  - `print path` → `print(path)`
-  - `from map_class import Map` → `from .map_class import Map`
+  - `print path` → `print(path)` (line 38, 186 in ant_colony.py)
+  - Need to update print statement syntax throughout
+  - May need to adjust imports in __init__.py if encountering relative import issues
 
 ### 12.2. Dependencies
 - numpy: Array handling and computation
