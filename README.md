@@ -41,19 +41,25 @@ A resulting path would be the following:
 
 For detailed algorithm analysis, please refer to:
 
-- **[ALGORITHM_ANALYSIS.md](ALGORITHM_ANALYSIS.md)** - Phân tích chi tiết thuật toán bằng tiếng Việt (Detailed algorithm analysis in Vietnamese)
+- **[SUMMARY.md](SUMMARY.md)** - 📋 Tóm tắt nhanh / Quick Summary
+  - Overview and key concepts
+  - Usage examples
+  - Recommended parameters
+  - Quick reference guide
+
+- **[ALGORITHM_ANALYSIS.md](ALGORITHM_ANALYSIS.md)** - 📖 Phân tích chi tiết thuật toán bằng tiếng Việt (Detailed algorithm analysis in Vietnamese)
   - Điều kiện đầu vào và đầu ra (Input and output conditions)
   - Luồng hoạt động chi tiết (Detailed operational flow)
   - Cấu trúc mã nguồn (Code structure)
   - Phân tích tham số và hiệu ứng (Parameter analysis and effects)
 
-- **[ALGORITHM_ANALYSIS_EN.md](ALGORITHM_ANALYSIS_EN.md)** - Detailed algorithm analysis in English
+- **[ALGORITHM_ANALYSIS_EN.md](ALGORITHM_ANALYSIS_EN.md)** - 📖 Detailed algorithm analysis in English
   - Input/output conditions
   - Operational flow
   - Code structure
   - Parameter analysis
 
-- **[FLOWCHART.md](FLOWCHART.md)** - Sơ đồ luồng hoạt động chi tiết (Detailed flowcharts)
+- **[FLOWCHART.md](FLOWCHART.md)** - 📊 Sơ đồ luồng hoạt động chi tiết (Detailed flowcharts)
   - Visual representation of algorithm flow
   - Data flow diagrams
   - Pheromone state diagrams
